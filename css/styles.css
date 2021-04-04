@@ -111,7 +111,7 @@ table {
 }
 
 /* this is make all headings sticky. we add the position later on. */
-/*th {
+th {
   position: -webkit-sticky;
   position: -moz-sticky;
   position: -ms-sticky;
