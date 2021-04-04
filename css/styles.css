@@ -121,7 +121,7 @@ th {
 }
 
 /* this is for the top row headings: alpha,..etc. We want this on top. */
-/*thead tr th {
+thead tr th {
   top: 0;
 }
 
