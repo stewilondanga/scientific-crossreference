@@ -131,12 +131,12 @@ tbody th {
 }
 
 /* this is for the cell with the logo. It is the only cell to stay on top and to the left. We add z-index, so it stays visible, otherwise it gets covered by the other side headings when scrolling.  */
-/*thead tr th:first-of-type {
+thead tr th:first-of-type {
   left: 0;
   z-index: 1;
 }
 
-td,
+/*td,
 th {
   padding: 1rem;
   text-align: center;
